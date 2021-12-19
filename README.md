@@ -1,3 +1,6 @@
+# Design By [jwhubert91](https://github.com/jwhubert91/100daysofreact/tree/master/day-10-calculator).
+![Screen](public/assets/images/screen.png?raw=true "Screen")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
