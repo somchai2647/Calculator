@@ -12,6 +12,7 @@
     "string-math": "^1.2.2",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "http://somchai.lab.cvc.ac.th/calculator/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -98,3 +98,12 @@ body {
 .inputs-container > .btn-bottom-right {
   border-bottom-right-radius: 15px;
 }
+
+.footer {
+  text-align: center;
+}
+
+.footer p {
+  color: aliceblue;
+  font-size: larger;
+}
